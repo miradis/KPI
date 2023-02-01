@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+}
+
+.app{
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+header{
+  width: 100%;
+  height: 110px;
+  background-color: #001529;
+}
+
+.drawer{
+  float: left;
+  height: 1024px;
+  width: 310px;
+  background-color: #001529;
+}
+.drawer-body{
+  margin-top: 20px;
+  padding: 20%;
+  font-size: 20px;
+}
+ul{
+  width: 100%;
+}
+li{
+  margin-bottom:  8px;
+  align-items: center;
+  display: flex;
+  color: #5B6576;
+  width: 100%;
+}
+li:active{
+  color: #DCE3FF;
+  background-color: #1890FF;
+}
+li:focus{
+  color: #FFFF;
+}
+.logo{
+  width: 290px;
+  height: 150px;
+  padding: 20px;
+}
+.menu{
+  width: 840px;
+  float: right;
+  height: 100%;
+  background-color: #F0F2F5;
+}
+.contacts{
+  float: right;
+}

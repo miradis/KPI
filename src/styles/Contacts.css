@@ -1,0 +1,10 @@
+*{
+    margin:  0;
+}
+.drawer_contact{
+    float: right;
+    height: 880px;
+    width: 240px;
+    background-color: #FAFAFA;
+    padding: 30px;
+}

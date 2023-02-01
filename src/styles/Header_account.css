@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.ant-account_info{
+    padding: 20px;
+    width: 440px;
+    height: 64px;
+    float: right;
+    color: #DCE3FF;
+    font-size: 22px;
+    
+}
+
+p{
+    padding: 10px;
+    margin-left: 20px;
+}
+.circular_account{
+    float: left;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #87D068;
+}
+img{
+    height: 100%;
+    width: 100%;
+}

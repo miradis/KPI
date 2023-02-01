@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.ant-drawer-body{
+    height: 100%;
+    width: 310 px;
+    background-color: #001529;
+}
