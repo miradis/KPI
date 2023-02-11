@@ -2,25 +2,18 @@
     margin: 0;
 }
 .ant-account_info{
-    padding: 20px;
-    width: 440px;
-    height: 64px;
+    padding: 8px;
     float: right;
-    color: #DCE3FF;
-    font-size: 22px;
-    
+    color: white;
+    font-size: 14px;
+    text-align: center;
 }
 
-p{
-    padding: 10px;
-    margin-left: 20px;
-}
 .circular_account{
-    float: left;
-    width: 48px;
-    height: 48px;
+    display: inline-block;
+    width: 36px;
     border-radius: 50%;
-    overflow: hidden;
+    margin-right: 10px;
     background-color: #87D068;
 }
 img{

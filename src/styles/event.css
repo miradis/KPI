@@ -1,0 +1,23 @@
+.App{
+    min-height: 100vh;
+    display: flex;
+}
+main{
+    padding: 5px;
+    height: 100vh;
+    background-color: #D9D9D9;
+}
+.event_list{
+    background-color: white;
+    height: 825px;
+    width: 90%;
+    margin-left: 15px;
+    margin-bottom: 0;
+    padding: 20px;
+}
+.main-section{
+    height: 100vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }

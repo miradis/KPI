@@ -1,0 +1,21 @@
+.App{
+    min-height: 100vh;
+    display: flex;
+}
+.menu{
+  width: 840px;
+  float: right;
+  height: 100%;
+  background-color: #F0F2F5;
+}
+.contacts{
+  float: right;
+}
+main{
+  flex: 1;
+}
+.main-section{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
