@@ -72,3 +72,6 @@ th, td {
     border: solid 1px black;
     border-radius: 10px;
 }
+.info{
+    padding: 20px;
+}
